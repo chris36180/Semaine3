@@ -1,103 +1,6 @@
-# Semaine_3
-# Semaine3
 <html>
 	<head>
-	<meta charset="utf-8">
-	     <link rel='stylesheet' type='text/css' href='stylesheet.css'/>
-		<title>CV Gavaud Christophe</title>
-	</head>
-		
-div {
-	border-radius: 5px;
-}
-
-#header {
-	z-index: 1;
-	position: fixed;
-	width: 97.5%;
-	margin-top: -20px;
-	height: 60px;
-	background-color: #668284;
-	margin-bottom: 10px;
-}
-#name {
-	float:left;
-	margin-left: 5px;
-	padding-top: 5px;
-	font-size: 16px;
-	font-family: Verdana, sans-serif;
-	color: #ffffff;
-}
-
-#email{
-	float:right;
-	margin-right: 5px;
-	padding-top: 5px;
-	font-size: 16px;
-	font-family: Verdana, sans-serif;
-	color: #ffffff;
-}
-
-h4 {
-	margin-left: 5px;
-	margin-bottom: 15px;
-	font-family: Verdana, sans-serif;
-    color:#666666;
-}
-
-.right p {
-	margin-left: 5px;
-	margin-right: 5px;
-	margin-top: -10px;
-	font-family: Garamond, serif;
-	color: #000000;
-}
-
-li {
-	list-style-type: square;
-}
-
-a:hover {
-	font-weight: bold;
-}
-
-.left {
-	position: relative;
-	float: left;
-	margin-top: 50px;
-	width: 10%;
-	height: 400px;
-	background-color: #B9D7D9;
-	margin-bottom: 10px;
-}
-
-.right {
-	position: relative;
-	float: right;
-	margin-top: 20px;
-	width: 88%;
-	height: 800px;
-	background-color: #F4EBC3;
-	margin-bottom: 10px;
-}
-
-#footer {
-	position: relative;
-	height: 50px;
-	background-color: #668284;
-	clear: both;
-	font-family: Verdana, sans-serif;
-	font-size: 14px;
-	text-align: center;
-	color: #ffffff;
-}
-
-#footer p {
-	position: relative;
-	padding-top: 15px;
-	}
-	</style>
-	     <link rel="stylesheet" href="stylesheet.css">
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
 		<title></title>
 	</head>
 	<body>
@@ -111,23 +14,23 @@ a:hover {
 			<h4>Objectif</h4>
 			<p>trouver un emploi de "codeur".</p>
 		<main>
-			<h4>Expérience</h4>
-			<p>Formation Technicien d'Assistance en Informatique (Antée Joué les tours 37)</p>
+			<h4>ExpÃ©rience</h4>
+			<p>Formation Technicien d'Assistance en Informatique (AntÃ©e JouÃ© les tours 37)</p>
 			<ul>
-				<li>stage en entreprise:FLOTEC à  Saint Maur (36),du 
-				15 au 30 avril 2015 (Assistance et vente materiel informatique au pres de particuliers)</li>
-				<li>stage en entreprise :MCI à Carquefous (44),du 04 mai au 01 juin 2015 (Assistance informatique en entreprise)</li>
+				<li>stage en entreprise:FLOTEC Ã  Saint Maur (36),du 
+				15 au 30 avril 2015 (Assistance et vente materiel informatique au prÃ¨s de particuliers)</li>
+				<li>stage en entreprise :MCI Ã  Carquefous (44),du 04 mai au 01 juin 2015 (Assistance informatique en entreprise)</li>
 			</ul>
 		</main>
-			<h4>Compétences</h4>
+			<h4>CompÃ©tences</h4>
 			<li>
-			     <p>Diagnostique et réparation de materiel informatique</p>
+			     <p>Diagnostique et rÃ©paration de materiel informatique</p>
 			 </li>
 			<li>
-			     <p>Assistance à  distance au près de particuliers</p>
+			     <p>Assistance Ã  distance au prÃ¨s de particuliers</p>
 			 </li>
 			<li>
-			<p>Installation et paramétrage serveur d'applications et de stockage.</p>
+			<p>Installation et paramÃ©trage serveur d'applications et de stockage.</p>
 			</li>
 			<li>
 			<p>Assemblage de postes de travail</p>
